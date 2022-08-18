@@ -1,0 +1,12 @@
+What our project is going to be is a forum where people can make topics
+and anyone can add to it with comments.
+This will contain a minimum:
+a main page for the topics
+different pages for each topic
+a delete button for the comments/topic
+a form for each page
+
+What we would like to add is:
+a login and registation
+user deleting their own submits
+admin logic for control of everything
