@@ -10,3 +10,6 @@ What we would like to add is:
 a login and registation
 user deleting their own submits
 admin logic for control of everything
+
+
+(Project never got off the ground due to communcation problems)
