@@ -33,4 +33,10 @@ module.exports = {
             .then((deletedId) => res.json(deletedId))
             .catch((err) => console.log(err));
     },
+
+    createUser: (req, res) => { 
+        User.create(req.body) 
+            .then((newUser) => res.json(newUser)) 
+            .catch((err) => console.log(err));
+    },
 };
